@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio-santa/static/css/main.0e62ac74.chunk.css",
+    "main.js": "/portfolio-santa/static/js/main.c6450c38.chunk.js",
+    "main.js.map": "/portfolio-santa/static/js/main.c6450c38.chunk.js.map",
+    "runtime-main.js": "/portfolio-santa/static/js/runtime-main.b6f7aa19.js",
+    "runtime-main.js.map": "/portfolio-santa/static/js/runtime-main.b6f7aa19.js.map",
+    "static/js/2.ae68d438.chunk.js": "/portfolio-santa/static/js/2.ae68d438.chunk.js",
+    "static/js/2.ae68d438.chunk.js.map": "/portfolio-santa/static/js/2.ae68d438.chunk.js.map",
+    "static/js/3.bec48a07.chunk.js": "/portfolio-santa/static/js/3.bec48a07.chunk.js",
+    "static/js/3.bec48a07.chunk.js.map": "/portfolio-santa/static/js/3.bec48a07.chunk.js.map",
+    "index.html": "/portfolio-santa/index.html",
+    "static/css/main.0e62ac74.chunk.css.map": "/portfolio-santa/static/css/main.0e62ac74.chunk.css.map",
+    "static/js/2.ae68d438.chunk.js.LICENSE.txt": "/portfolio-santa/static/js/2.ae68d438.chunk.js.LICENSE.txt",
+    "static/media/cafe.fe79286b.png": "/portfolio-santa/static/media/cafe.fe79286b.png",
+    "static/media/coffeFull.f3689ace.png": "/portfolio-santa/static/media/coffeFull.f3689ace.png",
+    "static/media/corazon.fb824694.svg": "/portfolio-santa/static/media/corazon.fb824694.svg",
+    "static/media/corpFull.4b5f51d6.png": "/portfolio-santa/static/media/corpFull.4b5f51d6.png",
+    "static/media/corporative.ca1837c4.png": "/portfolio-santa/static/media/corporative.ca1837c4.png",
+    "static/media/finantial.6b97f537.png": "/portfolio-santa/static/media/finantial.6b97f537.png",
+    "static/media/finantialFull.b55a2f93.png": "/portfolio-santa/static/media/finantialFull.b55a2f93.png",
+    "static/media/flood.66d7af19.png": "/portfolio-santa/static/media/flood.66d7af19.png",
+    "static/media/floodFull.415ff37a.png": "/portfolio-santa/static/media/floodFull.415ff37a.png",
+    "static/media/macFull.1253c287.png": "/portfolio-santa/static/media/macFull.1253c287.png",
+    "static/media/macarons.c7cebab7.png": "/portfolio-santa/static/media/macarons.c7cebab7.png",
+    "static/media/skinFull.2c26fd52.png": "/portfolio-santa/static/media/skinFull.2c26fd52.png",
+    "static/media/skincare.b1fce295.png": "/portfolio-santa/static/media/skincare.b1fce295.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6f7aa19.js",
+    "static/js/2.ae68d438.chunk.js",
+    "static/css/main.0e62ac74.chunk.css",
+    "static/js/main.c6450c38.chunk.js"
+  ]
+}
